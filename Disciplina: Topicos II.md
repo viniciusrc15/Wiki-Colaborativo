@@ -18,6 +18,6 @@ Pode ser empregada em vários tipos de problemas, pois sua biblioteca padrão in
 	É multiparadigma (Orientado a Objetos, Procedural, Funcional);
 
 Exemplo condicional:
-<img src=”https://singularidade461131890.files.wordpress.com/2019/07/a54fa-python-tutorial010.png”>
+<img src="https://singularidade461131890.files.wordpress.com/2019/07/a54fa-python-tutorial010.png">
 
 
