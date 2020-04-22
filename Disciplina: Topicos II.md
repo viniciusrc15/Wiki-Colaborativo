@@ -5,7 +5,8 @@
 Pode ser empregada em vários tipos de problemas, pois sua biblioteca padrão inclui módulos para processamento de texto e expressões regulares, protocolos de rede (HTTP, FTP, SMTP, POP, XML-RPC, IMAP), acesso aos serviços do sistema operacional, criptografia, interface gráfica, etc. Além da biblioteca padrão, existe uma grande variedade de extensões adicionais para todo tipo de aplicação.
 
 ## Estilo de codificação:
-	Preferencialmente e pela grande maioria dos desenvolvedores é indentada com o padrão "Python-mode" do Emacs: 4 espaços por nível. Códigos antigos costumam usar 8 espaços. Em último caso, é recomendado utilizar tabulação no lugar dos 4 ou 8 espaços.
+	Preferencialmente e pela grande maioria dos desenvolvedores é indentada com o padrão "Python-mode" do Emacs: 4 espaços por nível. 
+	Códigos antigos costumam usar 8 espaços. Em último caso, é recomendado utilizar tabulação no lugar dos 4 ou 8 espaços.
 	IDES: Anaconda, Spyder entre outras.
 
 ## Detalhes da linguagem:
