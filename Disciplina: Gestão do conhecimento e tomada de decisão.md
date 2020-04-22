@@ -14,5 +14,5 @@
 
 O conceito é baseado em termos da língua inglesa Data-Information-Knowledge-Wisdom e por isso recebe um outro termo: a Hierarquia DIKW também é conhecida como pirâmide do conhecimento.
 Ela é uma estrutura de informações hierarquizadas e que cada parte desta estrutura atribui valores a parte antecedente, a ordem dos componentes possui uma grande importância para garantir o funcionamento da hierarquia, uma vez que cada camada soma características ao componente anterior.
-  
+  (https://www.ibccoaching.com.br/portal//wp-content/uploads/2016/12/2-piramide-1.jpg)
 
