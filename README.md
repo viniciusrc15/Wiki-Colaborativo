@@ -16,3 +16,6 @@ Neste repositório, clique na aba "Wiki" e comece a contribuir.
 
 
 Utilizamos a sintaxe de markdown para criar novos conteúdos.
+
+
+![Alt Text](https://github.com/viniciusrc15/Wiki-Colaborativo/blob/master/img/28296bc0-d3f7-4f28-942d-12573c46c194.jpg)
